@@ -1,19 +1,15 @@
 body {
-background-color: Orgba(233, 17, 10, 0.466); font-family: Bai Jamjuree;
-4
-7
-footer (
-background-color: color: white: bottom: 0; position: fixed; width: 100%; height: 2rem;
+
+background-color: rgba(233, 17, 10, 0.466);
+ font-family: Bai Jamjuree;
+}
+footer {
+background-color: rgb(233, 17, 10, 0.466)
+colorwhite: 
+bottom: 0; 
+position: fixed; 
+width: 100%;
+ height: 2rem;
 rgb(248, 5, 5);
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
 footer p (
 text-align: center; font-size: 0.8rem; margin-top: 0,5rem;
